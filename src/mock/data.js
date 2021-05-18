@@ -35,7 +35,7 @@ export const projectsData = [
     title: 'Covid data analyse',
     info: 'Django, HTML, Bootstrap, SQLite, RESTful API',
     info2:
-      'Building a timeline chart to show number of cases and deaths of Covid-19 pandemic over Canada (using JavaScript with Chart.js libraries and Canada Covid-19 dataset from Postman). Transforming raw data from the dataset to the appropriate type dataset, which could be used by the Chart library.',
+      'Building a timeline chart to show number of cases and deaths of Covid-19 pandemic over Canada (using JavaScript with Chart.js libraries and Canada Covid-19 dataset). Transforming raw data from the dataset to the appropriate type dataset, which could be used by the Chart library.',
     url: 'https://youtu.be/oi68qfav-5U',
     // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
@@ -45,7 +45,7 @@ export const projectsData = [
     title: 'My fine dishes - a social Network site for food lover',
     info: 'NodeJS, Express, MongoDB, Heroku, RESTful API, HTML, Bootstrap, JavaScript',
     info2:
-      'A web app where people can share their favorite dishes from their hometown. Having functionalities of an social network site (create post, add comments, edit/delete post, etc.). Providing authentication and authorization for user and administrator to manage posts and comments in the system. Using Passport to encrypt user passwords.',
+      'A web app where people can share their favorite dishes from their hometown. Having functionalities of a social network site (create a post, add comments, edit/delete a post, etc.). Providing authentication and authorization for users and administrators to manage posts and comments in the system. Using Passport to encrypt user passwords.',
     url: 'https://youtu.be/CHBV7g0v7CY',
     repo: 'https://myfinedishes.herokuapp.com/', // if no repo, the button will not show up
   },
