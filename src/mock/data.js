@@ -31,7 +31,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'django_chart.JPG',
+    img: 'django_chart.jpg',
     title: 'Covid data analyse',
     info: 'Django, HTML, Bootstrap, SQLite, RESTful API',
     info2:
@@ -41,7 +41,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'myfinedish.JPG',
+    img: 'myfinedish.jpg',
     title: 'My fine dishes - a social Network site for food lover',
     info: 'NodeJS, Express, MongoDB, Heroku, RESTful API, HTML, Bootstrap, JavaScript',
     info2:
