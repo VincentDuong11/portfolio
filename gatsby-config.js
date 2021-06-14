@@ -4,6 +4,7 @@ const fs = require('fs');
 module.exports = {
   pathPrefix: '/portfolio',
   plugins: [
+    'gatsby-plugin-styled-components',
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-sharp`,
