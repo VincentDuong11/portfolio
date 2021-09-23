@@ -6,7 +6,7 @@ export const headData = {
   lang: '', // e.g: en, es, fr, jp
   description: '', // e.g: Welcome to my website
 };
-
+https://github.com/VincentDuong11/portfolio
 // HERO DATA
 export const heroData = {
   title: 'Hello, I am ', // Hello, my name is
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'HI THERE!',
   paragraphTwo: 'I am Chanh, a junior software developer based in Ottawa, Ontario.',
   paragraphThree:
-    'I just graduated from Algonquin College in May 2021. As a Computer Programming student, I had the opportunities to practice in many different software development areas such as Web Development, Mobile Development, System Programming, Database Design, and Networking.',
+    'I just graduated from Algonquin College in May, 2021. As a Computer Programming student, I had the opportunities to practice in many different software development areas such as Web Development, Mobile Development, System Programming, Database Design, and Networking.',
   paragraphFour:
     'With the passion for developing website and mobile applications, I focus on this field in order to achieve the goal of becoming a full stack developer.',
   // resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
